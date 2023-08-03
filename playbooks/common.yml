@@ -41,7 +41,3 @@
   state: touch
 
 
-    - name : set timezone
-      timezone:
-        name: Africa/Lagos 
-
