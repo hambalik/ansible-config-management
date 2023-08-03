@@ -35,9 +35,3 @@
         path: /home/sample
         state: directory
 
-- name: create a file
-  file:
-  path: /home/sample/ansible.txt
-  state: touch
-
-
