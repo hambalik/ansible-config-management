@@ -13,3 +13,4 @@
           paths:
             - "{{ playbook_dir }}/../env-vars"
       tags:
+        - always   
