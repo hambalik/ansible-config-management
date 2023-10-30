@@ -1,4 +1,3 @@
 # ansible-config-management
 
-test
-save artifacts
+save artifacts for Project-13
